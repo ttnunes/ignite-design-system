@@ -7,7 +7,7 @@ export default {
 
   args: {
     src: 'https://github.com/ttnunes.png',
-    alt: 'Thiago T Nunes',
+    alt: 'Thiago Teixeira Nunes',
   },
   argTypes: {
     src: {
