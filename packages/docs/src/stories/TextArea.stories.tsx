@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@ignite-ui/react'
+import { Box, Text, TextArea, TextAreaProps } from '@ttnunes-ignite-ui/react'
 
 export default {
   title: 'Form/Text Area',
@@ -9,7 +9,7 @@ export default {
   decorators: [
     (Story) => {
       return (
-        <Box 
+        <Box
           as="label"
           css={{
             display: 'flex',
