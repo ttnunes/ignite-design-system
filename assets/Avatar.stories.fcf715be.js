@@ -1,0 +1,2 @@
+import{A as t}from"./index.f76ba1da.js";import"./index.9601ea36.js";import"./iframe.767cacaa.js";import"./index.24c0f4ec.js";import"./jsx-runtime.d3952b00.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/ttnunes.png",alt:"Thiago Teixeira Nunes"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.fcf715be.js.map
